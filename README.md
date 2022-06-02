@@ -1,1 +1,4 @@
-# kaggle.ML.DS.survey2021
+# Analyze Kaggle Machine Learning & Data Science Survey Data 2021
+This is a project to practice our data analysis and visualization skills.\
+In this project, we use a dataset from Kaggle's annual Machine Learning and Data Science Survey competition, the survey was live from 09/01/2021 to 10/04/2021, and after cleaning the data [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) finished with 25,973 responses.\
+To implement this project, we used a number of libraries to support data processing such as [Pandas](https://pandas.pydata.org), [Numpy](https://numpy.org); visualization libraries like [Matplotlib](https://matplotlib.org), [plotly](https://plotly.com), [Seaborn](https://seaborn.pydata.org); and combine inference from insights and related data aspects in this dataset to answer some questions about Machine Learning and Data Science.
